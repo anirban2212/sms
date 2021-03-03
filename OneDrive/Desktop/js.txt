@@ -1,0 +1,88 @@
+js:-
+
+its a scripting language
+runtime env: Browser
+ES 6-ECMA Script 6--> designed to implement all the object
+ oriented programming language concepts
+
+standard
+interoperability of web pages across different type of browsers.
+
+
+---------------
+java script can be tested independently but in reality
+it should be embedded in html page.so its not independentd component its
+not ment to execute independntly.
+-------------------------
+
+Datatypes:will tell u the type of data stored
+memory allocation
+
+2 types of data->>
+1.primitive types(5)
+-->number
+->>string
+-->boolean
+-->null
+-->undefined
+2.reference types(6)
+-->array
+-->date
+-->error
+-->function-considered as an object type
+-->object
+-->regular expression
+
+variable:place holder for a value with name
+create variable using 2 keywords
+-->var
+-->let
+
+variable have scope.
+-->global scope-variable placed outside the function
+-->local scope-variable placed inside a function
+
+
+
+
+**in js everything is a reference type
+
+
+
+
+
+
+
+
+-----------------
+
+function :
+
+2 ways of creating a function
+1.declration way-fucntion hoisting is possible
+2.expression way-function hoisting is not possible
+
+function hoisting -->invoking a function even before it is defined
+---------------------------
+type of objects :
+1.window object
+2.document object->getElementByid(),getElementByName()
+3.frame object
+4.form related object
+5.navigator object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
